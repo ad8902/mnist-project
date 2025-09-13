@@ -1,0 +1,25 @@
+# Virtual environments
+mnist-env/
+tf-env/
+env/
+venv/
+
+# Large model files  
+models/
+*.h5
+*.hdf5
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.save
